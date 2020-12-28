@@ -1,0 +1,67 @@
+body
+{
+    background-image: url(gambar/kopilatar.jpeg);
+    background-size: cover;
+}
+.bg-coklat
+{
+    background-color: saddlebrown;
+}
+.bg-putih
+{
+    background-color: white;
+   
+}
+.margin-atas
+{
+    margin-top: 10px;
+}
+.padding-counterner
+{
+    padding: 15px;
+}
+.ukuran-judul
+{
+    color: white;
+    letter-spacing: 4px;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.aktif
+{
+ color: blue;
+ font-size: 20px;
+}
+.warna-tulisan
+{
+    color: white;
+}
+.store
+{
+    width: 500px;
+    padding: 10px;
+    margin: 10px;
+    color: black;
+}
+
+.store ul
+{
+    list-style-type: none;
+}
+.store ul li
+{
+    display: block;
+}
+.store p
+{
+    display: block;
+    border-bottom: 1px solid;
+    margin-bottom: 10px;
+    padding: 5px;
+    color:black;
+    word-spacing: 5cm;
+}
+.store p:hover
+{
+color: orange;
+}
